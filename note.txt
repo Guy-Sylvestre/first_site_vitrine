@@ -1,0 +1,19 @@
+Création de projets react
+1_npx create-react-app my-app
+
+2_sudo npm i node-sass react-router-dom
+
+
+echo "# Fist_site_vitrine-with-reacJS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Guy-Sylvestre/Fist_site_vitrine-with-reacJS.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Guy-Sylvestre/Fist_site_vitrine-with-reacJS.git
+git branch -M main
+git push -u origin main 
