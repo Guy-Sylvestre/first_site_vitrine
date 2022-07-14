@@ -35,7 +35,7 @@ export const projectsData = [
     date: "Aout 2021",
     languages: ["ReactJS", "SASS"],
     infos:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam enim iste.",
+      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas cumque labore suscipit, pariatur laboriosam autem omnis saepe quisquam.",
     img: "./assets/img/vitrine_site_reactjs.png",
     link: "https://github.com/Guy-Sylvestre/First_site_vitrine-with-reacJS",
   },
