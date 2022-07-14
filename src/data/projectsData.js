@@ -5,7 +5,7 @@ export const projectsData = [
     date: "Juin 2021",
     languages: ["Python", "Flask", "HTML CSS3"],
     infos:
-      "La banque occupant dans certain cas une liberte financiere qu'elle peut donner a ses incrits mais pas tous. L'application a pour pour but de simuler une prise de credit pour voir si nous somme elegible ou pas. Pour ce faire il faudra prendre en compte certain critere.",
+      "La banque occupant dans certain cas une liberté financière qu'elle peut donner a ses inscrits, mais pas tous. L'application a pour pour but de simuler une prise de crédit pour voir si nous sommes éligible ou pas. Pour ce faire il faudra prendre en compte certain critère.",
     img: "./assets/img/data_science.png",
     link: "https://github.com/Guy-Sylvestre/First_Projet_Data_Science__formasys",
   },
@@ -15,7 +15,7 @@ export const projectsData = [
     date: "Janvier 2021",
     languages: ["Django3", "Bootstrap4"],
     infos:
-      "CRM achronime anglais dont la signification en langue francais veut dire RELAION CLIENTE. CRM a pour objectif de gerer le client, ici nous somme dans le domaine de vente. Le propio pooura voir la liste des clients ainsi aue leur status ",
+      "CRM acronyme anglais dont la signification en langue française veut dire RELATION CLIENTE. CRM a pour objectif de gérer le client, ici nous somme dans le domaine de vente. Le propriétaire pourra voir la liste des clients ainsi que leur status",
     img: "./assets/img/crm_django.png",
     link: "https://github.com/Guy-Sylvestre/crm_gestion_produit_with_django3",
   },
@@ -25,7 +25,7 @@ export const projectsData = [
     date: "Avril 2021",
     languages: ["Django3", "Bootstrap"],
     infos:
-      "Gestion de blog par le publication et categoriser avec une option de secmantation",
+      "Gestion de blog par la publication et catégorisation avec une option de segmentation",
     img: "./assets/img/blog_gestion_django.png",
     link: "https://github.com/Guy-Sylvestre/guy-my-blog",
   },
